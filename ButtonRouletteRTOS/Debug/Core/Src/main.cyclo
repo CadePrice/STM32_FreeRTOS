@@ -1,0 +1,12 @@
+../Core/Src/main.c:20:5:main	1
+../Core/Src/main.c:42:6:MainMenuTask	3
+../Core/Src/main.c:67:6:RoundTask	1
+../Core/Src/main.c:88:6:GameTask	13
+../Core/Src/main.c:198:6:EndTask	3
+../Core/Src/main.c:211:6:SystemClock_Config	1
+../Core/Src/main.c:245:6:GPIO_Config	1
+../Core/Src/main.c:276:6:LCD_Init	1
+../Core/Src/main.c:294:6:LCD_Send	1
+../Core/Src/main.c:307:6:LCD_Print	3
+../Core/Src/main.c:323:12:getSeed	5
+../Core/Src/main.c:349:6:delay	2
